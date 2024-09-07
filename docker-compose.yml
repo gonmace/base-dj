@@ -16,9 +16,9 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     environment:
-      - POSTGRES_USER=core
-      - POSTGRES_PASSWORD=core
-      - POSTGRES_DB=core_dev
+      - POSTGRES_USER=magoreal
+      - POSTGRES_PASSWORD=ojalaque
+      - POSTGRES_DB=pozos
 
 volumes:
   postgres_data:
