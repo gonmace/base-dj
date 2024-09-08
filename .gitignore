@@ -312,6 +312,7 @@ dist
 
 db/
 staticfiles/
+mediafiles/
 ArchivosBase/
 .vscode/
 .env.dev
